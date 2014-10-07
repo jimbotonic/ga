@@ -1,4 +1,4 @@
-ga
+Graph Algorithms
 ==
 
-Collection of graph classical algorithms
+Collection of classical graph algorithms
